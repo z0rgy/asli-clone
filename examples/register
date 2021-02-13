@@ -1,0 +1,18 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+__register 32 { } Name;
+__register 32 { 7:4 Field_A, 3:0 Field_B } Arch_type;
+__register 32 { 7:4 Field_A, 3:0+0 Field_B } Arch_type;
+__register 32 { 7:(4+4) Field_A, 3:0+0 Field_B } Arch_type;
+__register 55 { } Name;

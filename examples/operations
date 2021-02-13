@@ -1,0 +1,28 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Two choices here -- allow for all operations to be performed via the parser and then check
+# which ones are supported depending on their type...
+
+Operations supported by each type
+
+Integers:
+MOD, DIV, REM, QUOT, ^
+!=, (, ), *, +, -, (unary) -, <, <<, <=, ==, =>, >, >=, >>
+
+
+PLUS_PLUS: '++'; --- APPEND
+

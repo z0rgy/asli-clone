@@ -1,0 +1,26 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+constant integer a = 1 ^ 2 ^ 4;
+constant integer MAX_VL = 2048;
+constant integer MAX_LL = 0x1234;
+constant real MAX_LLR = 1.5;
+
+// constant bits(4) DebugException_Watchpoint  = '1010';
+// array bits(MAX_VL) _Z[0..31];

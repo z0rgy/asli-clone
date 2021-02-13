@@ -1,0 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if TRUE then 10 else 100
+if FALSE then 40 else 10
+if 1+1 == 5 then if FALSE then 1 else 2 else 10
+if 6 == 5 then 10 elsif 5 == 5 then 20 else 30
